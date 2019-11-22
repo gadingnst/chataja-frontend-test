@@ -9,7 +9,6 @@ import {
     Thumbnail,
     Left,
     Body,
-    Right,
     Toast
 } from 'native-base'
 import Header from '../Components/Header'
@@ -25,9 +24,6 @@ const UserList = ({ data, onPress = () => false }) => (
             <Text>{data.name}</Text>
             <Text note>{data.email}</Text>
         </Body>
-        <Right>
-            <Text note>{data.status}</Text>
-        </Right>
     </ListItem>
 )
 

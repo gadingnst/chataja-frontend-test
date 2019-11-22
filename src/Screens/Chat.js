@@ -86,7 +86,7 @@ export default ({ navigation }) => {
     return (
         <>
             <Header
-                title={opponent.name}
+                title={opponent.name.split(/\s+/)[0]}
                 leftComponent={
                     <Thumbnail
                         source={{ uri: opponent.avatar }}

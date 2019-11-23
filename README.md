@@ -8,12 +8,6 @@
   - [Result](#result)
     - [Build APK](#build-apk)
     - [Screenshots](#screenshots)
-      - [Splash](#splash)
-      - [Login](#login)
-      - [Register](#register)
-      - [Home](#home)
-      - [Chat Room](#chat-room)
-      - [Account](#account)
 
 ## Stack Used
 - React Native
@@ -54,20 +48,15 @@ $ cd android/ && ./gradlew assembleRelease
 
 ### Screenshots
 
-#### Splash
-[![Splash](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/splash.jpeg)](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/splash.jpeg)
+<p float="left">
+  <img src="https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/splash.jpeg" width="200" height="350" alt="Splash">
+  <img src="https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/login.jpeg" width="200" height="350" alt="Login" >
+  <img src="https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/register.jpeg" width="200" height="350" alt="Register">
+  <img src="https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/home.jpeg" width="200" height="350" alt="Home">
+  <img src="https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/chatroom.jpeg" width="200" height="350" alt="Chat Room">
+  <img src="https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/account.jpeg" width="200" height="350" alt="Account">
+</p>
 
-#### Login
-[![Login](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/login.jpeg)](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/login.jpeg)
+---
 
-#### Register
-[![Register](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/register.jpeg)](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/register.jpeg)
-
-#### Home
-[![Home](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/home.jpeg)](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/home.jpeg)
-
-#### Chat Room
-[![Chat Room](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/chatroom.jpeg)](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/chatroom.jpeg)
-
-#### Account
-[![Account](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/account.jpeg)](https://raw.githubusercontent.com/sutanlab/chataja-frontend-test/master/screenshots/account.jpeg)
+Regards, Sutan Gading Fadhillah Nasution.
